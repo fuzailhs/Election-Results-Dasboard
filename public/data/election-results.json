@@ -1,0 +1,1349 @@
+{
+  "name": "44th Canadian General Election",
+  "date": "2021-09-20",
+  "status": "Final",
+  "updatedAt": "2023-10-31",
+  "sourceName": "Elections Canada — Official Voting Results",
+  "sourceUrl": "https://www.elections.ca/content.aspx?section=res&dir=rep/off/44gedata&document=index&lang=e",
+  "areas": [
+    {
+      "id": "nl",
+      "name": "N.L.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 70783
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 104240
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 37743
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 0
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 5150
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 0
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "pei",
+      "name": "P.E.I.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 145
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 26673
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 8048
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 39046
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 7802
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 0
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 2748
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 0
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "ns",
+      "name": "N.S.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 85
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 336
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 144315
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 8902
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 207237
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 127
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 107832
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 65
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 19365
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 643
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "nb",
+      "name": "N.B.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 158
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 133678
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 2217
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 20162
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 168945
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 234
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 47353
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 0
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 24346
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 708
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "qc",
+      "name": "Que.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 873
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 1301615
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 52
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 192
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 399
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 756412
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 44214
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 61488
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 1364485
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 1901
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 1669
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 395401
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 244
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 2934
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 3926
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 108744
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 216
+        },
+        {
+          "partyName": "Independent",
+          "votes": 4193
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 4283
+        }
+      ]
+    },
+    {
+      "id": "on",
+      "name": "Ont.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 1187
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 52
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 555
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 4154
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 1487
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 2251826
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 821
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 142678
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 2535222
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 2095
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 130
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 1165
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 358
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 1153119
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 926
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 350150
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 255
+        },
+        {
+          "partyName": "Independent",
+          "votes": 8378
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "mb",
+      "name": "Man.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 213
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 712
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 343
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 224682
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 9435
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 160206
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 373
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 339
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 131591
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 80
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 43519
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 17
+        },
+        {
+          "partyName": "Independent",
+          "votes": 1660
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "sk",
+      "name": "Sask.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 195
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 100
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 304698
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 5699
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 54731
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 7279
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 108720
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 0
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 33969
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 433
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "ab",
+      "name": "Alta.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 93
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 2198
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 497
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 1075638
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 17483
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 299493
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 1232
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 893
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 25670
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 118
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 370394
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 829
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 142479
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 758
+        },
+        {
+          "partyName": "Independent",
+          "votes": 2721
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 2593
+        }
+      ]
+    },
+    {
+      "id": "bc",
+      "name": "B.C.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 273
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 53
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 1304
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 1380
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 750394
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 121919
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 608588
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 831
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 678
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 1890
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 664054
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 259
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 110523
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 2439
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "yt",
+      "name": "Y.T.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 5096
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 846
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 6471
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 4354
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 0
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 2639
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "nt",
+      "name": "N.W.T.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 2031
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 328
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 5387
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 4558
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 0
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 1791
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "nu",
+      "name": "Nun.",
+      "reportingStatus": "Final",
+      "results": [
+        {
+          "partyName": "Animal Protection Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Bloc Québécois",
+          "votes": 0
+        },
+        {
+          "partyName": "Canada's Fourth Front",
+          "votes": 0
+        },
+        {
+          "partyName": "Canadian Nationalist Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Centrist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Christian Heritage Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Communist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Conservative Party of Canada",
+          "votes": 1184
+        },
+        {
+          "partyName": "Free Party Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Green Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Liberal Party of Canada",
+          "votes": 2578
+        },
+        {
+          "partyName": "Libertarian Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Marijuana Party",
+          "votes": 0
+        },
+        {
+          "partyName": "Marxist-Leninist Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Maverick Party",
+          "votes": 0
+        },
+        {
+          "partyName": "National Citizens Alliance of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "New Democratic Party",
+          "votes": 3427
+        },
+        {
+          "partyName": "Parti Patriote",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti pour l'Indépendance du Québec",
+          "votes": 0
+        },
+        {
+          "partyName": "Parti Rhinocéros Party",
+          "votes": 0
+        },
+        {
+          "partyName": "People's Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Veterans Coalition Party of Canada",
+          "votes": 0
+        },
+        {
+          "partyName": "Independent",
+          "votes": 0
+        },
+        {
+          "partyName": "No Affiliation",
+          "votes": 0
+        }
+      ]
+    }
+  ]
+}
